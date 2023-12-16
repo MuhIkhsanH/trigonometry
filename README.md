@@ -1,3 +1,2 @@
-Sudut istimewa trigonometry
-&nbsp;
 ![test](Capture.PNG)
+Sudut istimewa trigonometry
